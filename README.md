@@ -1,4 +1,4 @@
-# Tutorial Repository
+# kdog0598's Repo
 Welcome to this tutorial repository! (I really need a different name for this thing.) This README should give you everything you need to setup your own repository on GitHub or any other web-hoster you hold! For the sake of time and money, I'll be using GitHub for this tutorial, because you know, well, it's free.
 
 ## Prerequisites
