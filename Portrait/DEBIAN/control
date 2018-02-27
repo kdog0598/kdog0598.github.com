@@ -1,0 +1,10 @@
+Package: net.portraitlighting.package
+Name: Portrait Lighting
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add iP8+ and iPX portrait lighting to iP7+
+Depiction: 
+Homepage: http://www.google.com
+Maintainer: Kieran Wilson <winneonsword@gmail.com>
+Author: overnightmare <winneonsword@gmail.com>
+Section: Tweaks
