@@ -2,7 +2,6 @@ Package: com.pwn20wnd.admissile
 Name: AdMissile
 Version: 1.1
 Architecture: iphoneos-arm
-Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb
 Description: An ad blocker.
 Maintainer: kdog0598
 Author: pwn20wnd
