@@ -2,10 +2,10 @@ Package: net.electricfilza.kdog0598
 Name: Filza Electracuted
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Add iP8+ and iPX portrait lighting to iP7+
+Description: Filza for Electra jailbreak
 Depiction: 
 Homepage: http://www.google.com
 Maintainer: Kieran Wilson
 Author: Dry05
-Section: Tweaks
+Section: System
 Installed-Size: 26536
