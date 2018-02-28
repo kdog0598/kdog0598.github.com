@@ -1,0 +1,3 @@
+uicache
+chown root /Applications/Filza.app/FilzaAppstore
+chmod 6777 /Applications/Filza.app/FilzaAppstore
