@@ -1,4 +1,0 @@
-#!/bin/bash
-cp -a /etc/hosts.bak /etc/hosts
-rm /etc/hosts.bak
-killall -9 mDNSResponder
