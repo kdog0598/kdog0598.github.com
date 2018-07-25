@@ -1,3 +1,0 @@
-chown -R root /Applications/Filza.app
-chmod -R 0777 /Applications/Filza.app
-uicache

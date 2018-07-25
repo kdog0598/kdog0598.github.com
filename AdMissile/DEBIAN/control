@@ -1,8 +1,0 @@
-Package: com.pwn20wnd.admissile
-Name: AdMissile
-Version: 1.1
-Architecture: iphoneos-arm
-Description: An ad blocker.
-Maintainer: kdog0598
-Author: pwn20wnd
-Section: System
