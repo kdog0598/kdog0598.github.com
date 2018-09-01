@@ -1,0 +1,10 @@
+Package: net.hideaction.kdog0598
+Name: HideAction
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove 3d touch icons from iPX lockscreen. Should work for Fluidity or littlex as well.
+Depiction: 
+Homepage: https://github.com/JunesiPhone/hideactions
+Maintainer: Kieran Wilson 
+Author: JunesiPhone
+Section: Tweaks
