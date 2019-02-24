@@ -1,0 +1,16 @@
+Package: org.xbmc.kodi-ios64
+Name: Kodi-iOS (64-bit)
+Depends: firmware (>= 7.0)
+Pre-Depends: cy+cpu.arm64
+Conflicts: org.xbmc.kodi-ios
+Replaces: org.xbmc.kodi-ios
+Priority: Extra
+Version: 18.1-0
+Architecture: iphoneos-arm
+Installed-Size: 184612
+Description: Kodi Entertainment Center for iOS
+Homepage: http://kodi.tv/
+Maintainer: Memphiz
+Author: Team-Kodi
+Section: Multimedia
+Icon: file:///Applications/Kodi.app/AppIcon57x57.png
