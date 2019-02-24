@@ -3,7 +3,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsuppor
 Author: Lance Fetters (ashikase) <support@ashikase.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: IconSupport for iOS 12
-Package: com.chpwn.iconsupport
+Package: com.chpwn.iconsupport12
 Pre-Depends: firmware (>= 3.0), firmware (<= 12.1.2)
 Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
 Section: Development
