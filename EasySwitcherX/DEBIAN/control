@@ -1,9 +1,0 @@
-Package: com.spark.EasySwitcherX
-Name: EasySwitcherX
-Architecture: iphoneos-arm
-Description: Make the iPX app closer function like other devices.
-Maintainer: Kieran Wilson
-Author: Spark
-Section: Tweaks
-Version: 0.0.1-14+debug
-Installed-Size: 56
