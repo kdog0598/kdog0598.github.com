@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo backupmessages by ally && echo creating backup && cp -r /var/mobile/Library/SMS /var/mobile/shellbackup && echo backup created at /var/mobile/SMS/shellbackup && echo type restoremessages to restore your messages from this backup

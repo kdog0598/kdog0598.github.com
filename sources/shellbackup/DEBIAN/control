@@ -1,0 +1,8 @@
+Package: com.kdog0598.shellbackup
+Name: shellbackup
+Version: 3.2
+Depends: firmware (>=2.0), zip, unzip
+Architecture: iphoneos-arm
+Author: Unknown
+Description: Shellbackup is a command line local backup utility that doesn’t backup jailbreak data as iCloud and iTunes backups do. Type shellbackup in a shell for usage. iPhone OS 2.x and above are supported (tested up to iOS 11.4b3)
+Maintainer: kdog0598

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo restorecontacts by ally && echo deleting all current contacts && rm -r /var/mobile/Library/AddressBook && echo restoring backup from /var/mobile/shellbackup/AddressBook && cp -r /var/mobile/shellbackup/AddressBook /var/mobile/Library && echo setting ownership && chown mobile -R /var/mobile/Library/AddressBook && echo setting permissions && chmod -R 0755 /var/mobile/Library/AddressBook && echo backup restored && echo deleting backup && rm -r /var/mobile/shellbackup/AddressBook && echo all data will be restored the next time you power on your device && echo SHUTDOWN YOUR DEVICE RIGHT NOW && echo SHUTOFF YOUR DEVICE RIGHT NOW && echo SHUTOFF YOUR DEVICE RIGHT

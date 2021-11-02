@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo backupcontacts by ally && echo creating backup && cp -r /var/mobile/Library/AddressBook /var/mobile/shellbackup && echo backup created at /var/mobile/shellbackup/AddressBook && echo type restorecontacts to restore your contacts from this backup 

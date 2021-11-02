@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo restoremessages by ally && echo deleting all current messages && rm -r /var/mobile/Library/SMS && echo restoring backup from /var/mobile/shellbackup/SMS && cp -r /var/mobile/shellbackup/SMS /var/mobile/Library && echo setting ownership && chown mobile -R /var/mobile/Library/SMS && echo setting permissions && chmod -R 0755 /var/mobile/Library/SMS && echo backup restored && echo deleting backup && rm -r /var/mobile/shellbackup/SMS && echo all data will be restored the next time you power on your device && echo SHUTDOWN YOUR DEVICE RIGHT NOW && echo SHUTOFF YOUR DEVICE RIGHT NOW && echo SHUTOFF YOUR DEVICE RIGHT
